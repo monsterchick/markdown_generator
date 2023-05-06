@@ -1,0 +1,11 @@
+class symbol:
+    clear = ''
+    hash_one = '# '
+    hash_two = '## '
+    hash_three = '### '
+    hash_four = '#### '
+    hash_five = '##### '
+    hash_six = '###### '
+    backtick = '```'
+    bullet_point = '* '
+    image_with_link = '[![]()]()'
